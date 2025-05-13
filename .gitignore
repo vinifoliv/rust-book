@@ -1,0 +1,25 @@
+# Arquivos e diretórios criados pelo Cargo
+/target/
+**/target/
+
+# Arquivos de configuração do Rust/Cargo
+Cargo.lock
+
+# Arquivos de build do Rust ao usar outras ferramentas
+/.cargo/
+**/.cargo/
+
+# Backups de editores
+*~
+*.swp
+*.swo
+
+# Arquivos de IDEs e editores comuns
+.idea/
+.vscode/
+*.iml
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+
